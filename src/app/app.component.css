@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+div {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+}
+button {
+  flex-basis: 25%;
+}
